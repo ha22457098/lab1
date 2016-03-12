@@ -1,0 +1,25 @@
+Script started on 2016年03月12日 (週六) 09時35分49秒
+]0;F74046056@2015cpp: ~F74046056@2015cpp:~$ whoami; pwd
+F74046056
+/home/F74046056
+]0;F74046056@2015cpp: ~F74046056@2015cpp:~$ git config -l
+user.name=Heinz
+user.email=ha22457098@gmail.com
+]0;F74046056@2015cpp: ~F74046056@2015cpp:~$ git clone https://github.com/<your
+bash: your: No such file or directory
+]0;F74046056@2015cpp: ~F74046056@2015cpp:~$ github
+github: command not found
+]0;F74046056@2015cpp: ~F74046056@2015cpp:~$ account>/lab1.git[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Khttps://github.com/<your
+bash: your: No such file or directory
+]0;F74046056@2015cpp: ~F74046056@2015cpp:~$ github
+github: command not found
+]0;F74046056@2015cpp: ~F74046056@2015cpp:~$ account>/lab1.git
+bash: /lab1.git: Permission denied
+]0;F74046056@2015cpp: ~F74046056@2015cpp:~$ https://github.com/ha22457098/lab1.gitghttps://github.com/ha22457098/lab1.gitihttps://github.com/ha22457098/lab1.gitthttps://github.com/ha22457098/lab1.git https://github.com/ha22457098/lab1.gitchttps://github.com/ha22457098/lab1.gitlhttps://github.com/ha22457098/lab1.gitohttps://github.com/ha22457098/lab1.gitnhttps://github.com/ha22457098/lab1.gitehttps://github.com/ha22457098/lab1.git https://github.com/ha22457098/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+]0;F74046056@2015cpp: ~F74046056@2015cpp:~$ exit
+
+Script done on 2016年03月12日 (週六) 09時38分21秒
